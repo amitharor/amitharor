@@ -2,6 +2,7 @@
   
 # Amit Haror  
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&pause=1000&color=FFC1E7&width=500&lines=I+love+code.+.+.;creative+developer.+.+.;problem+solving.+.+.;continuously+learning.+.+.)](https://)
 
 </div>
@@ -29,7 +30,7 @@ I have a strong interest in backend development, distributed systems, and applie
 
 <!-- Screenshots to be added -->
 <!-- 
-### Featured Projects
+### Projects - Showcase
 
 **🦫 Coffybara – AI-Powered Real-Time Event Detection & Observability**  
 A distributed system project focusing on real-time monitoring, anomaly detection concepts, and reliable event processing using modern cloud tooling.
