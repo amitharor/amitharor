@@ -40,7 +40,7 @@ Machine learning time-series forecasting project focused on practical applicatio
 
 ---
 
-### Technical Focus ⚙️
+### Technical Focus
 
 **Languages**  
 TypeScript • Python • JavaScript • SQL
@@ -53,6 +53,6 @@ Python ML Tools • Pandas • Scikit-learn • Hands on ML application learning
 
 ---
 
-### A Little More 😊
+### A Little More...
 
 I care a lot about thoughtful engineering, writing clean and understandable code, and continually improving how I think about systems and software. Outside of coding, music is my favorite way to relax.
