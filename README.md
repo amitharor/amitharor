@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFC1E7&center=true&width=435&lines=I+love+to+Code;creative+developer;problem+solving..;continuously+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&pause=1000&color=FFC1E7&center=true&width=500&lines=I+love+code.+.+.;creative+developer.+.+.;problem+solving.+.+.;continuously+learning.+.+.)](https://)
