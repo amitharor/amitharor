@@ -53,9 +53,3 @@ Node.js • Express • REST APIs • CI/CD • Docker • Kubernetes
 
 **Data & AI**  
 Python ML Tools • Pandas • Scikit-learn • Hands on ML application learning
-
----
-
-### A Little More...
-
-I care a lot about thoughtful engineering, writing clean and understandable code, and continually improving how I think about systems and software. Outside of coding, music is my favorite way to relax.
