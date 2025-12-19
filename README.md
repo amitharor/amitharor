@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a software engineer with a strong interest in backend development, distributed systems, and applied AI. I love taking ideas from concept to something real and working, and I enjoy environments where I can keep learning, build meaningful things, and solve interesting problems.
+I have a strong interest in backend development, distributed systems, and applied AI. I love taking ideas from concept to something real and working, and I enjoy environments where I can keep learning, build meaningful things, and solve interesting problems.
 
 🎓 Bachelor of Science in Computer Science  
 🎯 Pursuing Master of Science in Computer Science (Machine Learning concentration 🤖)  
