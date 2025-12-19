@@ -1,9 +1,8 @@
-<div align="center">
+<div align="left">
   
 # Amit Haror  
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&pause=1000&color=FFC1E7&center=true&width=500&lines=I+love+code.+.+.;creative+developer.+.+.;problem+solving.+.+.;continuously+learning.+.+.)](https://)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=30&pause=1000&color=FFC1E7&width=500&lines=I+love+code.+.+.;creative+developer.+.+.;problem+solving.+.+.;continuously+learning.+.+.)](https://)
 
 </div>
 
@@ -28,6 +27,8 @@ I have a strong interest in backend development, distributed systems, and applie
 
 ---
 
+<!-- Screenshots to be added -->
+<!-- 
 ### Featured Projects
 
 **🦫 Coffybara – AI-Powered Real-Time Event Detection & Observability**  
@@ -39,6 +40,7 @@ Machine learning time-series forecasting project focused on practical applicatio
 *(More projects available in my repositories — always building, always learning.)*
 
 ---
+-->
 
 ### Technical Focus
 
