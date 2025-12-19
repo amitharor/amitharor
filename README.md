@@ -12,7 +12,6 @@
 
 I have a strong interest in backend development, distributed systems, and applied AI. I love taking ideas from concept to something real and working, and I enjoy environments where I can keep learning, build meaningful things, and solve interesting problems.
 
-🎓 Bachelor of Science in Computer Science  
 🎯 Pursuing Master of Science in Computer Science (Machine Learning concentration 🤖)  
 🔧 Deepening focus in system design, scalable backend engineering, and ML integration  
 ❤️ Enjoy building reliable systems, learning deeply, and collaborating with great teams  
@@ -22,9 +21,9 @@ I have a strong interest in backend development, distributed systems, and applie
 
 ### What am I currently working on?
 
-- Building projects that combine **backend engineering, cloud technologies, and AI**
-- Strengthening expertise in **TypeScript, Python, and scalable system design**
-- Continuing advanced education and professional development in CS
+- Building projects that combine **backend engineering, cloud technologies, and AI**  
+- Strengthening expertise in **TypeScript, Python, and scalable system design**  
+- Continuing advanced education and professional development in CS  
 
 ---
 
