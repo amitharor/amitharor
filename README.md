@@ -12,7 +12,7 @@
 
 I have a strong interest in backend development, distributed systems, and applied AI. I love taking ideas from concept to something real and working, and I enjoy environments where I can keep learning, build meaningful things, and solve interesting problems.
 
-📚 Pursuing Master of Science in Computer Science (Machine Learning concentration 🦾)  
+📚 Master of Science in Computer Science (Machine Learning concentration 🦾)  
 🔧 Deepening focus in system design, scalable backend engineering, and ML integration  
 ❤️ Enjoy building reliable systems, learning deeply, and collaborating with great teams  
 
@@ -42,6 +42,7 @@ Machine learning time-series forecasting project focused on practical applicatio
 ---
 -->
 
+<!-- 
 ### Technical Focus
 
 **Languages**  
@@ -52,3 +53,4 @@ Node.js • Express • REST APIs • CI/CD • Docker • Kubernetes
 
 **Data & AI**  
 Python ML Tools • Pandas • Scikit-learn • Hands on ML application learning
+-->
