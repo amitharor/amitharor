@@ -17,7 +17,7 @@ I have a strong interest in backend development, distributed systems, and applie
 ❤️ Enjoy building reliable systems, learning deeply, and collaborating with great teams  
 
 
----
+<!-- ---
 
 ### What am I currently working on?
 
@@ -25,7 +25,7 @@ I have a strong interest in backend development, distributed systems, and applie
 - Strengthening expertise in **TypeScript, Python, and scalable system design**  
 - Continuing advanced education and professional development in CS  
 
----
+--- -->
 
 <!-- Screenshots to be added -->
 <!-- 
